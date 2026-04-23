@@ -53,7 +53,7 @@ delivery_project/
 └── README.md
 App Screenshot
 
-![App Screenshot](images/screenshot.png)
+![Screenshot](images/screenshot.png)
 
  How to Run the Project
 
