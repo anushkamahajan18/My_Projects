@@ -52,8 +52,7 @@ delivery_project/
 ├── Food_Delivery_Times.csv
 └── README.md
 App Screenshot
-
-![Screenshot](images/screenshot.png)
+![App Screenshot](images/screenshot.png)
 
  How to Run the Project
 
