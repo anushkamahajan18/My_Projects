@@ -51,6 +51,9 @@ delivery_project/
 ├── columns.pkl
 ├── Food_Delivery_Times.csv
 └── README.md
+App Screenshot
+
+![App Screenshot](images/screenshot.png)
 
  How to Run the Project
 
