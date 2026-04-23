@@ -45,13 +45,13 @@ Tech Stack
  Project Structure
 
 delivery_project/
-│
-├── app.py
-├── delivery_model.pkl
-├── columns.pkl
-├── Food_Delivery_Times.csv
-└── README.md
-App Screenshot
+-> app.py
+-> delivery_model.pkl
+-> columns.pkl
+-> Food_Delivery_Times.csv
+-> README.md
+ 
+ App Screenshot
 ![App Screenshot](images/screenshot.png)
 
  How to Run the Project
