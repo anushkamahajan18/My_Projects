@@ -66,4 +66,3 @@ if st.button("🚀 Predict Delivery Time"):
     🚚 Delivery Time: **{round(prediction, 2)} minutes**
     """)
 
-    st.balloons()
