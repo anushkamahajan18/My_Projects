@@ -27,15 +27,16 @@ Objective: To help estimate accurate delivery times for better logistics plannin
 
 ### Project Structure
 
+```
 Delivery_Time_Prediction/
-│
-├── Delivery.ipynb              # Data analysis and model training
-├── app.py                      # Streamlit application
-├── delivery_model.pkl          # Trained model
-├── columns.pkl                 # Feature columns
-├── Food_Delivery_Times.xls     # Dataset
-├── requirements.txt            # Dependencies
-└── README.md                   # Project documentation
+├── Delivery.ipynb          # Data analysis and model training
+├── app.py                  # Streamlit application
+├── delivery_model.pkl      # Trained model
+├── columns.pkl             # Feature columns
+├── Food_Delivery_Times.xls # Dataset
+├── requirements.txt        # Dependencies
+└── README.md               # Project documentation
+```
 
 ### Dataset
 
