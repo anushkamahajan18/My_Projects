@@ -26,6 +26,7 @@ Objective: To help estimate accurate delivery times for better logistics plannin
 * Ready-to-use serialized machine learning model for deployment
 
 ### Project Structure
+
 Delivery_Time_Prediction/
 │
 ├── Delivery.ipynb              # Data analysis and model training
@@ -35,6 +36,7 @@ Delivery_Time_Prediction/
 ├── Food_Delivery_Times.xls     # Dataset
 ├── requirements.txt            # Dependencies
 └── README.md                   # Project documentation
+
 ### Dataset
 
 The dataset contains delivery-related information with the following attributes:
